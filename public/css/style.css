@@ -27,6 +27,12 @@ body {
   float: right;
   color: #EA7EF9;
   font-weight: bold;
+  transition:2s;
+}
+#ingredients:hover {
+  background-color: white;
+  transition:2s;
+
 }
 
 .exception {
@@ -48,6 +54,10 @@ body {
   border-style: solid; 
   margin-right: 50px;
   margin-bottom: 50px;
+}
+#directions:hover{
+  background-color:white;
+  transition:2s;
 }
 
 #footer {
